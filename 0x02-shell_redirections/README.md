@@ -8,3 +8,4 @@
 7. It is a good file that cuts iron without making a noise -> Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 8. Save current state of directory
 9.  Duplicate last line
+10. No more javascript

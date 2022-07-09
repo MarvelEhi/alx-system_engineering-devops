@@ -18,3 +18,4 @@
 17. I hate bins
 18. Letters only please
 19. A-z
+20. withou c you will live in hiago`

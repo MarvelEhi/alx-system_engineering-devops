@@ -18,4 +18,5 @@
 17. I hate bins
 18. Letters only please
 19. A-z
-20. Without c you will live in hiago`
+20. Without c you will live in hiago
+21. esreveR
